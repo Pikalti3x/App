@@ -20,7 +20,7 @@ or using runApp():
 # First create a directory 
 # and clone the repository with git.
 
-git clone https://github.com/LYES78/app
+git clone https://github.com/Pikalti3x/App
 
 # Then go to Rstudio or console and use runApp().
 
