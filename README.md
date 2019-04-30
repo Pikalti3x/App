@@ -31,4 +31,4 @@ runApp()
 
 ```
 
-##### you can visite the app by following [this link](https://lyes78.shinyapps.io/App_/)
+##### you can visite the app by following [this link](https://pikalti3x.shinyapps.io/App_/).
