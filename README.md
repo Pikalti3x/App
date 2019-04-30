@@ -9,7 +9,7 @@ To download and run this code in Rstudio :
 library(shiny)
 
 # Easiest way is to use runGitHub
-runGitHub("app", "LYES78")
+runGitHub("App", "Pikalti3x")
 
 ```
 
@@ -26,7 +26,7 @@ git clone https://github.com/LYES78/app
 
 library(shiny)
 
-setwd("~/*/app")
+setwd("~/*/App")
 runApp()
 
 ```
